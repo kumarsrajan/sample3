@@ -1,0 +1,15 @@
+body {
+  background: #ffb676;
+}
+
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.he {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
